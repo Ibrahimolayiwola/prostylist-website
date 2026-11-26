@@ -1,7 +1,6 @@
 "use client"
 import { useState } from "react";
 import HeroVideo from "./HeroVideo";
-import { RxHamburgerMenu } from "react-icons/rx";
 // Tailwind only sees complete class strings, so each line keeps its literal classes.
 const headline = [
   { text: "4 Years of", cls: "not-italic" },
